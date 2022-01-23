@@ -17,6 +17,7 @@ public class Main {
         }
         System.out.println();
         System.out.println("Все события корректны");
+        System.out.println();
     }
 
     public static void validEvent(Event event) {
